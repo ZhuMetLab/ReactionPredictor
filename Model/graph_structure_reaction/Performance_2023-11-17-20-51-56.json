@@ -1,0 +1,1 @@
+{"valid_accuracy": 0.9863105416297913, "batch_size": 32, "num_epochs": 22, "initial_learning_rate": 0.00034658580772149863, "num_gconv_layers": 3, "num_gconv_units": 144, "num_dense_layers": 2, "num_dense_units": 512, "weight_decay": 0.0008737220943585696, "dense_dropout": 0}

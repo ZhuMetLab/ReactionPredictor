@@ -1,0 +1,1 @@
+{"model_name": "RxnPredictor", "batch_size": 128, "num_epochs": 50, "learning_rate": 0.0001, "num_gconv_layers": 3, "num_gconv_units": 256, "num_dense_layers": 3, "num_dense_units": 256, "weight_decay": 0.0001, "dense_dropout": 0, "save_path": "./experiments/checkpoints/"}
