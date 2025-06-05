@@ -45,17 +45,9 @@ conda create -n RxnPred python=3.10
 conda activate RxnPred
 ```
 
-## Requirements
-
-- keras >= 2.8.0
-- mordred 1.2.0
-- networkx 2.8.8
-- numpy >= 1.22.2
-- pandas >= 1.4.1
-- python >= 3.9.7
-- rdkit >= 2022.9.1
-- tensorflow >= 2.8.0
-- tqdm >= 4.64.1
+```bash
+pip install tensorflow==2.12.0 pandas tqdm joblib rdkit==2022.9.1 bayesian-optimization molmass
+```
 
 ---
 
