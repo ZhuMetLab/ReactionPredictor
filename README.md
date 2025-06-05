@@ -32,8 +32,8 @@ reaction-predictor/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your_username/reaction-predictor.git
-cd reaction-predictor
+git clone https://github.com/ZhuMetLab/ReactionPredictor.git
+cd ReactionPredictor
 ````
 
 2. **Install dependencies**
@@ -131,4 +131,4 @@ python predict.py --input demo.csv --output demo_out.csv --batch_size 128 --keep
 
 ## 📬 Contact
 
-For questions, feel free to open an issue or contact the authors at \[[your\_email@example.com](mailto:your_email@example.com)].
+For questions, feel free to open an issue or contact the authors at \[[zhanghs@sioc.ac.cn](mailto:zhanghs@sioc.ac.cn)].
